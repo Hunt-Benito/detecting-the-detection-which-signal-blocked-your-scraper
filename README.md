@@ -1,7 +1,8 @@
 # Detecting the Detection - differential blocking attribution PoC
 
 Companion PoC for the Hunt-Benito article "Detecting the Detection:
-Finding Out Which Signal Blocked Your Scraper".
+Finding Out Which Signal Blocked Your Scraper":
+https://hunt-benito.com/blog/detecting-the-detection-finding-out-which-signal-blocked-your-scraper/
 
 When a site blocks your scraper, five different signal layers could have
 triggered it: IP reputation, TLS/HTTP-2 fingerprint, HTTP headers, the
